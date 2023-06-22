@@ -1,3 +1,5 @@
+// 2) Алгоритм пирамидальной сортировки (HeapSort)
+
 package Solutions;
 
 import java.util.ArrayList;
